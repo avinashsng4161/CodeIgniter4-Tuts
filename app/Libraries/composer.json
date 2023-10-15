@@ -1,0 +1,7 @@
+{
+    "name": "google/login",
+    "description": "google login with ci4",
+    "require": {
+        "google/apiclient": "^2.15.0"
+    }
+}
